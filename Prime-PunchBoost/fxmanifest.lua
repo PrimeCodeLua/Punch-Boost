@@ -1,8 +1,8 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Brad'
-description 'Script pour augmenter les dÈg‚ts des coups de poing'
+author 'Prime'
+description 'Script pour augmenter les d√©g√¢ts des coups de poing'
 version '1.0.0'
 
 client_scripts {
@@ -14,5 +14,5 @@ server_scripts {
 }
 
 dependencies {
-    'es_extended' -- DÈpendance pour ESX
+    'es_extended' -- D√©pendance pour ESX
 }
